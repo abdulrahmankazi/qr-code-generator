@@ -1,3 +1,23 @@
+<b>Qr Code Generator</b>
+<br>
+Ad free, simple & easy to use app for generating Qr Code.
+
+<li>Create Qr Code for Plain text</li>
+<li>Email</li>
+<li>URL</li>
+<li>Telephone</li>
+<li>SMS with body</li>
+<li>Whatsapp with message</li>
+
+<li>Customize Qr code Color.</li>
+<li>Save created Qr in local storage.</li>
+
+<br>
+<ul>And a lot more coming soon.</ul>
+
+
+
+
 <table>
   <tr>
     <td valign="top"><img src="/Screenshots/1.jpg" alt="Play store screenshot 1" /></td>
