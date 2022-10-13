@@ -1,16 +1,32 @@
-# qr_code_scanner
-
-QR Code Scanner App
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td valign="top"><img src="/Screenshot/1.jpg" alt="Play store screenshot 1" /></td>
+    <td valign="top"><img src="/Screenshot/2.jpg" alt="Play store screenshot 2"/></td>
+  </tr>
+  
+  <br>
+  
+  <tr>
+    <td valign="top"><img src="/Screenshot/3.jpg" alt="Play store screenshot 3"/></td>
+    <td valign="top"><img src="/Screenshot/4.jpg" alt="Play store screenshot 4"/></td>
+  </tr>
+  
+  
+  <tr>
+    <td valign="top"><img src="/Screenshot/5.jpg" alt="Play store screenshot 5"/></td>
+    <td valign="top"><img src="/Screenshot/6.jpg" alt="Play store screenshot 6"/></td>
+  </tr>
+  
+  
+  <tr>
+    <td valign="top"><img src="/Screenshot/7.jpg" alt="Play store screenshot 7"/></td>
+    <td valign="top"><img src="/Screenshot/8.jpg" alt="Play store screenshot 8"/></td>
+  </tr>
+  
+  
+  <tr>
+    <td valign="top"><img src="/Screenshot/9.jpg" alt="Play store screenshot 9"/></td>
+    <td valign="top"><img src="/Screenshot/10.jpg" alt="Play store screenshot 10"/></td>
+  </tr>
+  
+</table>
